@@ -9,7 +9,7 @@ int main()
     cout << " Enter Numbr B:";
     cin >> b;
 
-    cout<<"Sum is:"<<a+b;
+    cout<<"Sum isssss:"<<a+b;
 
     return 0;
 }
